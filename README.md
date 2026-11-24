@@ -1,13 +1,11 @@
 # 👋 Hey there, I'm Qadri Aditya!
 
-## 🌐 My Portfolio
-
 <div align="center">
 
   <a href="https://qadriaditya.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img
       src="assets/Portofolio Modern Ungu Minimalis.png"
-      width="85%"
+      width="95%"
       alt="Qadri Aditya Portfolio"
     />
   </a>
