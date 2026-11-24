@@ -6,7 +6,7 @@
 
   <a href="https://qadriaditya.vercel.app/" target="_blank">
     <img
-      src="assets/portfolio-preview.png"
+      src="Portofolio Modern Ungu Minimalis.webp"
       width="85%"
       alt="Qadri Aditya Portfolio"
     />
