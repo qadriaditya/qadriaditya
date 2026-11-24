@@ -4,9 +4,9 @@
 
 <div align="center">
 
-  <a href="https://qadriaditya.vercel.app/" target="_blank">
+  <a href="https://qadriaditya.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img
-      src="Portofolio Modern Ungu Minimalis.png"
+      src="assets/Portofolio Modern Ungu Minimalis.png"
       width="85%"
       alt="Qadri Aditya Portfolio"
     />
