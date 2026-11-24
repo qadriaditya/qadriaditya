@@ -66,31 +66,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
-
-<br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=qadriaditya&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qadriaditya&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🌐 Let's Connect!
 
 <div align="center">
