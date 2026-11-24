@@ -71,14 +71,12 @@ I enjoy exploring different areas of development, from designing intuitive user 
 
 <div align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
 
-<br/><br/>
+  <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=qadriaditya&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=79C0FF&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=79C0FF&dates=8B949E" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=qadriaditya&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak" />
 
 </div>
 
@@ -91,18 +89,6 @@ I enjoy exploring different areas of development, from designing intuitive user 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qadriaditya&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
-
----
-
-## 🎯 Current Goals
-
-- [x] Explore modern frontend development
-- [x] Learn React and Next.js ecosystem
-- [x] Improve Full-Stack Development skills
-- [ ] Build and deploy more real-world applications
-- [ ] Explore advanced Machine Learning techniques
-- [ ] Improve UI/UX design skills
-- [ ] Contribute to open-source projects
 
 ---
 
