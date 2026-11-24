@@ -10,6 +10,8 @@
     />
   </a>
 
+<sub>Designed and developed by Qadri Aditya</sub>
+
 <br/><br/>
 
   <a href="https://qadriaditya.vercel.app/">
@@ -17,10 +19,6 @@
       src="https://img.shields.io/badge/Explore%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
     />
   </a>
-
-<br/><br/>
-
-<sub>Designed and developed by Qadri Aditya</sub>
 
 </div>
 
