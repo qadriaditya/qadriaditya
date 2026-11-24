@@ -67,23 +67,14 @@ I enjoy exploring different areas of development, from designing intuitive user 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 📦 Inventory Management System | Web-based inventory management with QR code integration | Next.js, Node.js |
-| 🌦️ Weather Application | Weather information and weather exploration | Next.js, TypeScript |
-| 📊 Dashboard UI | Responsive dashboard and reusable UI components | React, Tailwind CSS |
-| 🍎 Fruit Classification | Image classification using Deep Learning | Python, TensorFlow |
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" width="49%" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+</div>
 
 <br/><br/>
 
