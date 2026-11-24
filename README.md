@@ -82,18 +82,23 @@ I enjoy exploring different areas of development, from designing intuitive user 
 
 <div align="center">
 
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=79C0FF&text_color=C9D1D9&ring_color=A78BFA&include_all_commits=true" width="100%" alt="GitHub Statistics" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="100%" alt="Most Used Languages" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=qadriaditya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=qadriaditya&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=79C0FF&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=79C0FF&dates=8B949E" width="100%" alt="GitHub Contribution Streak" />
+
+<br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qadriaditya&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=79C0FF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+
+  <br/>
+
+<sub>✦ Consistency is the key to growth. Keep building, keep learning.</sub>
 
 </div>
 
