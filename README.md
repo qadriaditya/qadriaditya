@@ -12,14 +12,6 @@
 
 <sub>Designed and developed by Qadri Aditya</sub>
 
-<br/><br/>
-
-  <a href="https://qadriaditya.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Explore%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
-    />
-  </a>
-
 </div>
 
 <div align="center">
@@ -37,21 +29,6 @@
 **Building ideas into reality, one line of code at a time.** 🚀
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a Software Engineering student passionate about technology, programming, and digital innovation.
-
-I enjoy exploring different areas of development, from designing intuitive user interfaces to building functional web applications and experimenting with Machine Learning.
-
-- 🌐 Interested in Web Development & Full-Stack Engineering
-- 🤖 Exploring Machine Learning & Deep Learning
-- 🎨 Passionate about UI/UX Design
-- 💡 Interested in solving real-world problems through technology
-- 📚 Always learning, experimenting, and building new things
-- 🎯 Focused on becoming a better developer every day
 
 ---
 
