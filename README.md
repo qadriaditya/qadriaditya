@@ -82,13 +82,18 @@ I enjoy exploring different areas of development, from designing intuitive user 
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Profile Stats" />
 
   <br/><br/>
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=qadriaditya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=qadriaditya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -108,7 +113,7 @@ I enjoy exploring different areas of development, from designing intuitive user 
 
 - [x] Explore modern frontend development
 - [x] Learn React and Next.js ecosystem
-- [ ] Improve Full-Stack Development skills
+- [x] Improve Full-Stack Development skills
 - [ ] Build and deploy more real-world applications
 - [ ] Explore advanced Machine Learning techniques
 - [ ] Improve UI/UX design skills
