@@ -12,7 +12,7 @@
     />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <a href="https://qadriaditya.vercel.app/">
     <img
@@ -20,12 +20,11 @@
     />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
-  <sub>Designed and developed by Qadri Aditya</sub>
+<sub>Designed and developed by Qadri Aditya</sub>
 
 </div>
-
 
 <div align="center">
 
@@ -37,9 +36,9 @@
 
   <img src="https://img.shields.io/github/followers/qadriaditya?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 
-  <br/><br/>
+<br/><br/>
 
-  **Building ideas into reality, one line of code at a time.** 🚀
+**Building ideas into reality, one line of code at a time.** 🚀
 
 </div>
 
@@ -101,7 +100,7 @@ I enjoy exploring different areas of development, from designing intuitive user 
   <img src="https://github-readme-stats.vercel.app/api?username=qadriaditya&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadriaditya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://streak-stats.demolab.com/?user=qadriaditya&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak" />
 
@@ -127,14 +126,14 @@ I enjoy exploring different areas of development, from designing intuitive user 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
-  **Thanks for visiting my profile!**
+**Thanks for visiting my profile!**
 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
-  <br/><br/>
+<br/><br/>
 
-  *"Code. Create. Learn. Repeat."* ✨
+_"Code. Create. Learn. Repeat."_ ✨
 
 </div>
