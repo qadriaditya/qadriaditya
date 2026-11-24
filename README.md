@@ -1,5 +1,32 @@
 # 👋 Hey there, I'm Qadri Aditya!
 
+## 🌐 My Portfolio
+
+<div align="center">
+
+  <a href="https://qadriaditya.vercel.app/" target="_blank">
+    <img
+      src="assets/portfolio-preview.png"
+      width="85%"
+      alt="Qadri Aditya Portfolio"
+    />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://qadriaditya.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Explore%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
+
+  <br/><br/>
+
+  <sub>Designed and developed by Qadri Aditya</sub>
+
+</div>
+
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;UI%2FUX+Design+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
